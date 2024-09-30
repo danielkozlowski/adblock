@@ -1,2 +1,2 @@
 m.youtube.com##div[tab-title="Home"]
-m.youtube.com##div.related-items-container
+m.youtube.com##.related-items-container
