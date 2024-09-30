@@ -1,5 +1,0 @@
-! YouTube home
-m.youtube.com##div[tab-identifier="FEwhat_to_watch"]
-
-! YouTube related
-m.youtube.com##ytm-item-section-renderer[section-identifier="related-items"] > lazy-list
