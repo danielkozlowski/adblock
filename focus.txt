@@ -1,9 +1,9 @@
-! YouTube home
+! YouTube - Home
 m.youtube.com##*[tab-identifier="FEwhat_to_watch"]
 
-! YouTube related
+! YouTube - Related
 m.youtube.com##*[section-identifier="related-items"] > lazy-list
 
-! Twitter for you
+! Twitter - For You
 twitter.com/*/HomeTimeline
 x.com/*/HomeTimeline
