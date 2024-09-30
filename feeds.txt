@@ -1,1 +1,2 @@
+youtube.com##.ytd-browse[page-subtype="home"]
 m.youtube.com##.ytd-browse[page-subtype="home"]
