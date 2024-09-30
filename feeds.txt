@@ -1,2 +1,2 @@
 m.youtube.com##div[tab-identifier="FEwhat_to_watch"]
-m.youtube.com##ytm-item-section-renderer[section-identifier="related-items"]
+m.youtube.com##ytm-item-section-renderer[section-identifier="related-items"] > lazy-list
