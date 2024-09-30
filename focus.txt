@@ -1,5 +1,3 @@
-! Title: Focus
-
 ! YouTube home
 m.youtube.com##*[tab-identifier="FEwhat_to_watch"]
 
