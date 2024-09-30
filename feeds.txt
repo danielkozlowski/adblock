@@ -1,2 +1,2 @@
 m.youtube.com##div[tab-title="Home"]
-m.youtube.com##.related-items-container
+m.youtube.com##ytm-item-section-renderer[section-identifier="related-items"]
