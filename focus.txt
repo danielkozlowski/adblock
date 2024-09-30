@@ -3,3 +3,7 @@ m.youtube.com##*[tab-identifier="FEwhat_to_watch"]
 
 ! YouTube related
 m.youtube.com##*[section-identifier="related-items"] > lazy-list
+
+! Twitter for you
+twitter.com/*/HomeTimeline
+x.com/*/HomeTimeline
