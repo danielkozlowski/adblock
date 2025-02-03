@@ -3,3 +3,6 @@ m.youtube.com##*[tab-identifier="FEwhat_to_watch"]
 
 ! YouTube - Related
 m.youtube.com##*[section-identifier="related-items"] > lazy-list
+
+! Twitter
+twitter.com
