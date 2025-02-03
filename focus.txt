@@ -6,3 +6,4 @@ m.youtube.com##*[section-identifier="related-items"] > lazy-list
 
 ! Twitter
 twitter.com
+x.com
