@@ -5,4 +5,4 @@ m.youtube.com##*[tab-identifier="FEwhat_to_watch"]
 m.youtube.com##*[section-identifier="related-items"] > lazy-list
 
 ! Twitter - Home
-||x.com/home^
+x.com##*[tabindex="0"]
