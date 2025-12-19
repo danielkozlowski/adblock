@@ -4,5 +4,8 @@ m.youtube.com##*[tab-identifier="FEwhat_to_watch"]
 ! YouTube - Related
 m.youtube.com##*[section-identifier="related-items"] > lazy-list
 
+! YouTube - Shorts
+m.youtube.com##*[id="player-shorts-container"]
+
 ! Twitter - Home
 x.com##*[aria-label="Timeline: Your Home Timeline"]
