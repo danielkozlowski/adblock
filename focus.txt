@@ -5,7 +5,7 @@ m.youtube.com##*[tab-identifier="FEwhat_to_watch"]
 m.youtube.com##*[section-identifier="related-items"] > lazy-list
 
 ! YouTube - Shorts
-m.youtube.com##*[id="player-shorts-container"] > .carousel-item not(#carousel-item-0)
+m.youtube.com##*[id="player-shorts-container"] .carousel-item:not(#carousel-item-0)
 
 ! Twitter - Home
 x.com##*[aria-label="Timeline: Your Home Timeline"]
